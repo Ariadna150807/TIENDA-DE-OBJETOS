@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|solutionrelative:TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|solutionrelative:TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|solutionrelative:TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{BF4D7446-675B-40EA-809D-FA838E934156}|TIENDA DE OBJETOS\\TIENDA DE OBJETOS.vcxproj|solutionrelative:TIENDA DE OBJETOS\\TIENDA DE OBJETOS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +31,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Controlador.cpp",
+              "DocumentMoniker": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp",
+              "RelativeDocumentMoniker": "TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp",
+              "ToolTip": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp",
+              "RelativeToolTip": "TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-14T07:32:53.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Controlador.h",
+              "DocumentMoniker": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h",
+              "RelativeDocumentMoniker": "TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h",
+              "ToolTip": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h",
+              "RelativeToolTip": "TIENDA DE OBJETOS\\Header Files\\Controller\\Controlador.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-07-14T07:27:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vista.cpp",
+              "DocumentMoniker": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp",
+              "RelativeDocumentMoniker": "TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp",
+              "ToolTip": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp",
+              "RelativeToolTip": "TIENDA DE OBJETOS\\Header Files\\View\\Vista.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-14T07:26:13.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "TIENDA DE OBJETOS.cpp",
               "DocumentMoniker": "C:\\GitHub\\TIENDA-DE-OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS\\TIENDA DE OBJETOS.cpp",
               "RelativeDocumentMoniker": "TIENDA DE OBJETOS\\TIENDA DE OBJETOS.cpp",
@@ -26,8 +76,7 @@
               "RelativeToolTip": "TIENDA DE OBJETOS\\TIENDA DE OBJETOS.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-07-13T04:44:04.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-07-13T04:44:04.531Z"
             }
           ]
         }
