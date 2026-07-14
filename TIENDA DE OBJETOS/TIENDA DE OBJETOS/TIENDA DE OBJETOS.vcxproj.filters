@@ -13,10 +13,111 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Header Files\View">
+      <UniqueIdentifier>{8d66f0f5-6ce6-438a-84c4-8c37ebfec32d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Controller">
+      <UniqueIdentifier>{c74c5d62-9d90-4ce2-9da3-5355dcf4ee63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Model">
+      <UniqueIdentifier>{93f8cd84-d724-4849-b1e6-4f5c18ff942b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataBase">
+      <UniqueIdentifier>{f8a645eb-1397-4465-bd03-7ef59a9b8ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Model">
+      <UniqueIdentifier>{bf3002f3-c9c9-4853-9295-ee053a09b0dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\View">
+      <UniqueIdentifier>{e435bb62-0f2c-4f04-a33a-5800036a2a9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Controller">
+      <UniqueIdentifier>{a350e6c8-a3c6-44a3-8d7d-51ca6756d913}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DataBase">
+      <UniqueIdentifier>{14d09e15-9619-4762-8f72-e664c1c4f22a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="TIENDA DE OBJETOS.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\Objeto.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Jugador.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Tienda.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Inventario.cpp">
+      <Filter>Source Files\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Vista.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu.cpp">
+      <Filter>Source Files\View</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Controlador.cpp">
+      <Filter>Source Files\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="ConexionBD.cpp">
+      <Filter>Source Files\DataBase</Filter>
+    </ClCompile>
+    <ClCompile Include="InventarioDAO.cpp">
+      <Filter>Source Files\DataBase</Filter>
+    </ClCompile>
+    <ClCompile Include="JugadorDAO.cpp">
+      <Filter>Source Files\DataBase</Filter>
+    </ClCompile>
+    <ClCompile Include="ObjetoDAO.cpp">
+      <Filter>Source Files\DataBase</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Jugador.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Objeto.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Vista.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Controlador.h">
+      <Filter>Header Files\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Inventario.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Tienda.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Repositorio.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="TipoObjeto.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Rareza.h">
+      <Filter>Header Files\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Header Files\View</Filter>
+    </ClInclude>
+    <ClInclude Include="ConexionBD.h">
+      <Filter>Header Files\DataBase</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjetoDAO.h">
+      <Filter>Header Files\DataBase</Filter>
+    </ClInclude>
+    <ClInclude Include="JugadorDAO.h">
+      <Filter>Header Files\DataBase</Filter>
+    </ClInclude>
+    <ClInclude Include="InventarioDAO.h">
+      <Filter>Header Files\DataBase</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

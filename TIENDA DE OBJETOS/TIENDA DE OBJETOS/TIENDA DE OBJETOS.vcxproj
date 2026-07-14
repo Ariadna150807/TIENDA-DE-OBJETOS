@@ -123,7 +123,34 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\Controlador.cpp" />
+    <ClCompile Include="..\Jugador.cpp" />
+    <ClCompile Include="..\Objeto.cpp" />
+    <ClCompile Include="..\Vista.cpp" />
+    <ClCompile Include="ConexionBD.cpp" />
+    <ClCompile Include="Inventario.cpp" />
+    <ClCompile Include="InventarioDAO.cpp" />
+    <ClCompile Include="JugadorDAO.cpp" />
+    <ClCompile Include="Menu.cpp" />
+    <ClCompile Include="ObjetoDAO.cpp" />
     <ClCompile Include="TIENDA DE OBJETOS.cpp" />
+    <ClCompile Include="Tienda.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\Controlador.h" />
+    <ClInclude Include="..\Jugador.h" />
+    <ClInclude Include="..\Objeto.h" />
+    <ClInclude Include="..\Vista.h" />
+    <ClInclude Include="ConexionBD.h" />
+    <ClInclude Include="Inventario.h" />
+    <ClInclude Include="InventarioDAO.h" />
+    <ClInclude Include="JugadorDAO.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="ObjetoDAO.h" />
+    <ClInclude Include="Rareza.h" />
+    <ClInclude Include="Repositorio.h" />
+    <ClInclude Include="Tienda.h" />
+    <ClInclude Include="TipoObjeto.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
